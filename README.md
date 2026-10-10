@@ -32,5 +32,5 @@ Content in preparation
 ---
 
 Khronos® and Vulkan® are registered trademarks, and OpenVX™, SPIR™, SPIR-V™, SYCL™ are trademarks of The Khronos Group Inc. OpenCL™ is a trademark of Apple Inc. used under license by Khronos.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
